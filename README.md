@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+The aim of this project is to create an API to process slope deflection equations
+
 First, run the development server:
 
 ```bash
